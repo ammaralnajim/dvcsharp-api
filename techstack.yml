@@ -2,7 +2,7 @@ repo_name: ammaralnajim/dvcsharp-api
 report_id: 6585f25c96a88c670b5fc9915463fc48
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-20T18:36:22+00:00'
+timestamp: '2024-01-05T08:19:34+00:00'
 requested_by: deepsourcebot
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/ammaralnajim/dvcsharp-api
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -28,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/ammaralnajim/dvcsharp-api/blob/master/dvcsharp-core-api.csproj
   detection_source: dvcsharp-core-api.csproj
   last_updated_by: ad
   last_updated_on: 2018-04-27 08:24:19.000000000 Z
@@ -71,6 +73,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/3251/no-img-open-source.png
+  detection_source_url: https://github.com/ammaralnajim/dvcsharp-api/blob/master/dvcsharp-core-api.csproj
   detection_source: dvcsharp-core-api.csproj
   last_updated_by: ad
   last_updated_on: 2018-04-27 08:24:19.000000000 Z
@@ -83,6 +86,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/10254/no-img-open-source.png
+  detection_source_url: https://github.com/ammaralnajim/dvcsharp-api/blob/master/dvcsharp-core-api.csproj
   detection_source: dvcsharp-core-api.csproj
   last_updated_by: snyk-bot
   last_updated_on: 2022-10-10 10:57:41.000000000 Z
@@ -94,6 +98,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1027/sql_server.png
+  detection_source_url: https://github.com/ammaralnajim/dvcsharp-api/blob/master/dvcsharp-core-api.csproj
   detection_source: dvcsharp-core-api.csproj
   last_updated_by: snyk-bot
   last_updated_on: 2022-10-10 10:57:41.000000000 Z
@@ -106,6 +111,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/ammaralnajim/dvcsharp-api/blob/master/dvcsharp-core-api.csproj
   detection_source: dvcsharp-core-api.csproj
   last_updated_by: ad
   last_updated_on: 2018-04-27 08:24:19.000000000 Z
@@ -118,6 +124,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ammaralnajim/dvcsharp-api
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -127,6 +134,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ammaralnajim/dvcsharp-api
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -136,6 +144,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/ammaralnajim/dvcsharp-api/blob/master/dvcsharp-core-api.csproj
   detection_source: dvcsharp-core-api.csproj
   last_updated_by: ad
   last_updated_on: 2018-04-27 08:24:19.000000000 Z
@@ -148,6 +157,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Text Editor
   image_url: https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png
+  detection_source_url: https://github.com/ammaralnajim/dvcsharp-api/blob/master/.vscode/tasks.json
   detection_source: ".vscode/tasks.json"
   last_updated_by: ad
   last_updated_on: 2018-04-27 05:38:48.000000000 Z
@@ -160,6 +170,7 @@ tools:
   category: Application Utilities
   sub_category: User Management and Authentication
   image_url: https://img.stackshare.io/service/6417/jwt-icon.png
+  detection_source_url: https://github.com/ammaralnajim/dvcsharp-api/blob/master/dvcsharp-core-api.csproj
   detection_source: dvcsharp-core-api.csproj
   last_updated_by: ad
   last_updated_on: 2018-04-27 08:24:19.000000000 Z
@@ -172,6 +183,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ammaralnajim/dvcsharp-api
   detection_source: Repo Metadata
 - name: Microsoft.EntityFrameworkCore.SqlServer
   description: Microsoft SQL Server database provider for Entity Framework Core
